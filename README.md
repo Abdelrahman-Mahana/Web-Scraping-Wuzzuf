@@ -1,2 +1,2 @@
-# Web-Scraping-Wuzzuf
-This project is a demonstration of web scraping using the BeautifulSoup and Requests libraries. The script scrapes job information from the "https://wuzzuf.net/" website, collects data from multiple pages, and stores the data in a csv file
+# Web Scraping with BeautifulSoup and Requests
+This project is a demonstration of web scraping using the BeautifulSoup and Requests libraries. The script scrapes job information from the "https://wuzzuf.net/" website, collects data from multiple pages, and stores the data in a csv file. The data includes job names, company names, job types, locations, time posted, experienced required, and links to the job postings. The script can be modified and adapted to scrape data from other websites.
